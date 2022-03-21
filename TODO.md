@@ -13,3 +13,16 @@
 - Remove 2nd countplot
 - Observations on wordcloud
 
+
+## Data Cleaning
+
+- Mention why contractions were not opened
+- Rename data_cleanup function
+
+## Tokenization
+
+- Try BERT tokenizer 
+- Comparison study b/w stemmers and lemmatizers 
+
+
+
