@@ -1,28 +1,31 @@
-# Part 1
-
-## Pre Visualization
+# Pre Visualization
 
 - Duplicate reviews
 - Data is imbalanced so we'll be using precision, recall, etc. (give specific numbers from pie chart)
 - Score is labeled from 1 to 5
 - HTML text
 
-## Visualization
+# Visualization
 
 - TODO: View the outlier
 - Remove 2nd countplot
 - Observations on wordcloud
 
 
-## Data Cleaning
+# Data Cleaning
 
 - Mention why contractions were not opened
 - Rename data_cleanup function
 
-## Tokenization
+# Tokenization
 
 - Try BERT tokenizer 
 - Comparison study b/w stemmers and lemmatizers 
 
+# Representation
+
+- Check TODOs in notebook
+
+Check TODOs in notebook
 
 
